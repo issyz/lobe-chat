@@ -79,7 +79,7 @@ export default {
     },
     tabs: {
       members: '成员',
-      role: '角色',
+      role: '设定',
     },
   },
 
